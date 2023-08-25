@@ -1,0 +1,5 @@
+{{#user}}
+Name: Kalpesh Kumar
+Skills: HTML, CSS, JS, PHP, MYSQL, WORDPRESS, C, C++, Git, GitHub
+Email: sutharkalpesh101@gmail.com
+{{/user}}
